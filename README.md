@@ -1,5 +1,9 @@
 SparkPay is a mobile application developed to provide users with an easy and secure way to transfer and receive money in Bahrain. Built using Flutter, this app is designed to allow users to manage their finances seamlessly. The app features phone number-based user creation, OTP verification, wallet PIN setup, and a user-friendly interface for money transfers and transaction history.
 
+![Home](./images/sparkpay_1.png)
+
+![about](./images/sparkpay_2.png)
+
 ## Features
 
 - **Phone Number-based User Creation**: Users can register by simply entering their phone numbers.
